@@ -1,0 +1,23 @@
+{
+  "name": "fps-meter",
+  "version": "1.0.0",
+  "description": "JS FPS meter. This is still an alpha!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thibka/fps-meter.git"
+  },
+  "keywords": [
+    "javascript",
+    "fps"
+  ],
+  "author": "thibka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thibka/fps-meter/issues"
+  },
+  "homepage": "https://github.com/thibka/fps-meter#readme"
+}
