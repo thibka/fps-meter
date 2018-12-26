@@ -1,5 +1,5 @@
 {
-  "name": "fps-meter",
+  "name": "@thibka/fps-meter",
   "version": "1.0.0",
   "description": "JS FPS meter. This is still an alpha!",
   "main": "index.js",
